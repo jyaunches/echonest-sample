@@ -9,8 +9,6 @@
 #import "echoprintViewController.h"
 extern const char * GetPCMFromFile(char * filename);
 
-
-
 @implementation echoprintViewController
 
 - (IBAction)pickSong:(id)sender {
@@ -41,8 +39,6 @@ extern const char * GetPCMFromFile(char * filename);
 		[statusLine setNeedsDisplay];
 		[self.view setNeedsDisplay];
 	}
-	NSLog(@"what");
-
 }
 
 

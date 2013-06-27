@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/ASIHTTP/ASIAuthenticationDialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/ASIHTTP/ASIAuthenticationDialog.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/ASIHTTP/ASICacheDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/ASIHTTP/ASIDownloadCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/ASIHTTP/ASIDownloadCache.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/ASIHTTP/ASIFormDataRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/ASIHTTP/ASIFormDataRequest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/ASIHTTP/ASIHTTPRequest.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classes/MicrophoneInput.h" afterPath="$PROJECT_DIR$/Classes/MicrophoneInput.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/echoprint-Info.plist" afterPath="$PROJECT_DIR$/echoprint-Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classes/echoprintViewController.h" afterPath="$PROJECT_DIR$/Classes/echoprintViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classes/echoprintViewController.m" afterPath="$PROJECT_DIR$/Classes/echoprintViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/echoprint.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/echoprint.xcodeproj/project.pbxproj" />
+    </list>
+    <ignored path="echoprint.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372339201738" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/RecordSnapVC.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372287008298" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/RecordSnapVC.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372282990547" ignored="false" />
+    <file path="/RecordSnapVC.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372286675847" ignored="false" />
+    <file path="/*.regexp" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279344485" ignored="false" />
+    <file path="/MicrophoneInput.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372194099580" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/MicrophoneInput.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372280526149" ignored="false" />
+    <file path="/MicrophoneInput.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372194187655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/MicrophoneInput.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372194238779" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/SongIdentifier.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372272513132" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/SongIdentifier.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372340519802" ignored="false" />
+    <file path="/SongIdentifier.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279821768" ignored="false" />
+    <file path="$PROJECT_DIR$/../../GoFest/gofestios/GoFest/AvailableFestivalFetcher.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372195073987" ignored="false" />
+    <file path="/fragment.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372283981920" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/CADebugMacros.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372195999189" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/en.lproj/MainStoryboard.storyboard" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372341358240" ignored="false" />
+    <file path="/echoprintViewController.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372265502013" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/SongIdentificationDelegate.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279832834" ignored="false" />
+    <file path="/SongIdentificationDelegate.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372272344295" ignored="false" />
+    <file path="/SongIdentifier.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372272511920" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/EchoNestSong.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372340835818" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/EchoNestSong.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372340835818" ignored="false" />
+    <file path="/EchoNestSong.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372272767348" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/AppDelegate.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372276746885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/AudioRecorder.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372286609247" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/AudioRecorder.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372286617964" ignored="false" />
+    <file path="/RecordSnapVC.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372277644698" ignored="false" />
+    <file path="/AudioRecorder.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372286609614" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/AudioRecordingDelegate.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279649721" ignored="false" />
+    <file path="/AudioRecordingDelegate.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372277904298" ignored="false" />
+    <file path="/AudioRecorder.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372286617176" ignored="false" />
+    <file path="$PROJECT_DIR$/../../GoFest/gofestios/GoFest/Festival+Create.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372278982199" ignored="false" />
+    <file path="$PROJECT_DIR$/../../GoFest/gofestios/GoFest/Festival.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279080698" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/SongSnap+Create.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279607130" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/SongSnap+Create.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279523869" ignored="false" />
+    <file path="/SongSnap+Create.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279601207" ignored="false" />
+    <file path="$PROJECT_DIR$/../../GoFest/gofestios/GoFest/GoFest-Prefix.pch" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279405977" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/SnapASong-Prefix.pch" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279424159" ignored="false" />
+    <file path="$PROJECT_DIR$/../../GoFest/gofestios/GoFest/Festival+Create.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279582769" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/AppDelegate.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372279765599" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/SongSnap+SongIdentification.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372340892380" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/SongSnap+SongIdentification.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372280076043" ignored="false" />
+    <file path="/SongSnap+SongIdentification.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372340887041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/SongSnap.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372340835818" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/SongSnap.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372340835818" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/snapasong.xcdatamodeld/snapasong.xcdatamodel/contents" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372341750892" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/UserSnapsTVC.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372341358240" ignored="false" />
+    <file path="$PROJECT_DIR$/../../GoFest/gofestios/GoFest/BeerStylesTVC.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372339240644" ignored="false" />
+    <file path="/UserSnapsTVC.m" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372339782222" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong/UserSnapsTVC.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372339337665" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SnapASong/SnapASong/SnapASong.xcodeproj/project.pbxproj" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372339643052" ignored="false" />
+    <file path="/SongSnap.h" changelist="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" time="1372339702271" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_6.1_1" />
+  <component name="FavoritesManager">
+    <favorites_list name="echoprint" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MicrophoneInput.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/MicrophoneInput.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="63" selection-start="1320" selection-end="1320" vertical-scroll-proportion="-9.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MicrophoneInput.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/MicrophoneInput.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="echoprintViewController.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/echoprintViewController.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="11" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#150#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetPCMFromFile.cpp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GetPCMFromFile.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="12" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#132#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ASIHTTPRequest.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ASIHTTP/ASIHTTPRequest.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="11" selection-start="2165" selection-end="2165" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CADebugMacros.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CADebugMacros.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="echoprintViewController.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classes/echoprintViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="36" selection-start="1438" selection-end="1438" vertical-scroll-proportion="-0.5718901">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Classes/MicrophoneInput.h" />
+        <option value="$PROJECT_DIR$/Classes/MicrophoneInput.m" />
+        <option value="$PROJECT_DIR$/Classes/echoprintViewController.m" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="22" />
+    <option name="width" value="960" />
+    <option name="height" value="1115" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echoprint" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echoprint" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Other Sources" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echoprint" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="DirectoryView.Xcode" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.echoprint">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="echoprint" TARGET_NAME="echoprint" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="echoprint" RUN_TARGET_NAME="echoprint" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="echoprint" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="echoprint" PROJECT_NAME="echoprint" TARGET_NAME="echoprint" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="echoprint" RUN_TARGET_NAME="echoprint" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.echoprint" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e256ba2a-4986-41d2-92f5-3ab2eb982bfa" name="Default" comment="" />
+      <created>1372193544012</created>
+      <updated>1372193544012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="22" width="960" height="1115" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908913" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33006856" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12335266" sideWeight="0.6709109" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39960822" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32908913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Classes/echoprintViewController.m</url>
+          <line>31</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Classes/echoprintViewController.m</url>
+          <line>75</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Classes/MicrophoneInput.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASIHTTP/ASIHTTPRequest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="11" selection-start="2165" selection-end="2165" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CADebugMacros.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/echoprintViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="11" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#150#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPathUtilities.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="182" selection-start="4186" selection-end="4186" vertical-scroll-proportion="0.62957317">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/MicrophoneInput.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="63" selection-start="1320" selection-end="1320" vertical-scroll-proportion="-9.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetPCMFromFile.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="12" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#132#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/echoprintViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="36" selection-start="1438" selection-end="1438" vertical-scroll-proportion="-0.5718901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
